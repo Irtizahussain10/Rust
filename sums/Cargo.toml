@@ -1,0 +1,9 @@
+[package]
+name = "sums"
+version = "0.1.0"
+authors = ["Irtizahussain10 <65129927+Irtizahussain10@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
